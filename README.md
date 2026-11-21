@@ -33,6 +33,8 @@ A full-stack online quiz assessment, question bank, study material vault, and pe
 4. Run development server (port 3000):
    ```bash
    npm run dev
+
+   App link: https://ai.studio/apps/2bed0b4b-6e82-4add-bfd8-f1af5e5338e2?fullscreenApplet=true
    ```
 5. Build & run in production:
    ```bash
