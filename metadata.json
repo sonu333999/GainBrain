@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPulse — Quiz & Learning Management Platform",
+  "description": "Full-stack online quiz assessment, question bank, study material sharing, and performance analytics platform for Teachers and Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
